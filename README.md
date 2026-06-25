@@ -1,2 +1,2 @@
 # Library_System
-it's gonna be really cool
+A library management system with both employee- and patron-facing services for material checkout and catalog modification. Integrates a database management system using SQLite. 
